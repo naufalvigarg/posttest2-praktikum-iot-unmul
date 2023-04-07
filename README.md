@@ -18,7 +18,7 @@ Kita menggunakan :
 
 - 2 Breadboard
 - 1 Board ESP8266
-- 8 Label Jumper
+- 5 Label Jumper
 - 3 Resistor
 - 1 Piezo Buzzer
 - 1 Water Level Sensor
